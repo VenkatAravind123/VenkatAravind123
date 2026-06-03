@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at (https://portfolio-zeta-lac-75.vercel.app/)
+- 👨‍💻 All of my projects are available at ([(https://venkataravind123.github.io/portfolio30515/index.html)])
 
 - 💬 Ask me about **ReactJS,NodeJS,SpringBoot**
 
